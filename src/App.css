@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,700;1,400&display=swap");
+
 * {
     margin: 0;
     padding: 0;
@@ -27,7 +28,6 @@ button {
 
 .container {
     margin: 80px auto;
-    max-width: 450px;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -35,19 +35,17 @@ button {
 }
 
 .container h1 {
-    color: #ffffff;
+    color: #f05a5b;
     font-size: 36px;
-    position: relative;
-    top: 40px;
 }
 
 .content {
-    width: 40%;
-    opacity: 0.9;
-    background: #bbb9b9;
+    width: 80%;
+    opacity: 0.8;
+    background: #ffffff;
     margin-top: 50px;
-    border-radius: 20px;
-    padding: 10px;
+    border-radius: 4px;
+    padding: 30px;
 }
 
 .content > p {
@@ -58,7 +56,7 @@ button {
 
 .content button.submit-btn {
     border: 0;
-    border-radius: 20px;
+    border-radius: 2px;
     width: 100%;
     height: 42px;
     padding: 0 20px;
@@ -76,7 +74,7 @@ button {
 
 .content button.secondary-btn {
     border: 0;
-    border-radius: 20px;
+    border-radius: 2px;
     width: 100%;
     height: 42px;
     padding: 0 20px;
