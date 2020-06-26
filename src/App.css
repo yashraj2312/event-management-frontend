@@ -40,12 +40,12 @@ button {
 }
 
 .content {
-    width: 80%;
-    opacity: 0.8;
-    background: #ffffff;
+    width: 40%;
+    opacity: 0.9;
+    background: #bbb9b9;
     margin-top: 50px;
-    border-radius: 4px;
-    padding: 30px;
+    border-radius: 20px;
+    padding: 10px;
 }
 
 .content > p {
