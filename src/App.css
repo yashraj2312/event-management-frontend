@@ -14,7 +14,7 @@ body,
 }
 
 body {
-    background: rgba(0, 0, 0, 0.5) url("./assets/background.jpg") no-repeat;
+    background: rgba(0, 0, 0, 0.5) url("./assets/back.jpg") no-repeat;
     background-size: cover;
     -webkit-font-smoothing: antialiased !important;
 }
@@ -35,7 +35,7 @@ button {
 }
 
 .container h1 {
-    color: #ff6600;
+    color: #ffffff;
     font-size: 36px;
 }
 
