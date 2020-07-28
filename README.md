@@ -9,3 +9,8 @@ A MERN stack CRUD web app which lets users host events like hackathons, bootcamp
 ## Deployed on Heroku
 
 https://bit.ly/eventzapp
+
+
+## back-end
+
+https://github.com/yashraj2312/event-management-backend
